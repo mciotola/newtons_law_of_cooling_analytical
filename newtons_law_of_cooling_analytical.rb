@@ -2,11 +2,11 @@
 puts "\n\n"
 puts "###############################################################################"
 puts "#                                                                             #"
-puts "# NEWTON'S LAW OF COOLING -- Analytical version P 1.04                        #"
+puts "# NEWTON'S LAW OF COOLING -- analytical version 1.04                          #"
 puts "#_____________________________________________________________________________#"
 puts "#                                                                             #"
 puts "# Copyright 2011-13 by Mark Ciotola; available for use under GNU license      #"
-puts "# Last revised on 7 Sept 2013                                                 #"
+puts "# Last revised on 25 October 2013                                             #"
 puts "#_____________________________________________________________________________#"
 puts "#                                                                             #"
 puts "# Description:                                                                #"
@@ -14,12 +14,12 @@ puts "# This program generates a silumation of Newton's Law of Cooling.         
 puts "#                                                                             #"
 puts "###############################################################################"
 
-###############################################################################
-#                                                                             #
-# Developed with Ruby 1.9.2                                                   #
-# Takes the following parameters: temperature of reservoirs                   #
-#                                                                             #
-###############################################################################
+      ###############################################################################
+      #                                                                             #
+      # Developed with Ruby 1.9.2                                                   #
+      # Takes the following parameters: temperature of reservoirs                   #
+      #                                                                             #
+      ###############################################################################
 
 # GOALS
 # This simulation introduces several Ruby features: user input and output files.
